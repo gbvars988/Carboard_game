@@ -13,7 +13,8 @@ Application allows for:
 Developed to practise:
 - dynamic memory management
 - pointers
-- arrays/vectors 
+- arrays/vectors
+- OOP
 
 ## Build instructions
 
